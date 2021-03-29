@@ -17,13 +17,14 @@ Download: https://github.com/RedHaloStudio/Sketchup_Importer/releases
 
 ## 更新日志 Changelog
 
-### 2020-07-14
-Support Sketchup 2020
-支持到最新的Sketchup 2020
-
 ### 2021-03-29
 Support Blender 2.93 Alpha
 Support Sketchup 2021
 
 支持Blender 2.93 Alpha
 支持Sketchup 2021文件
+
+### 2020-07-14
+Support Sketchup 2020
+支持到最新的Sketchup 2020
+
