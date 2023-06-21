@@ -36,11 +36,11 @@ from . import sketchup
 from .SKPutil import *
 
 bl_info = {
-    "name": "SketchUp Importer",
+    "name": "SketchUp Importer Linked",
     "author": "Martijn Berger, Sanjay Mehta, Arindam Mondal, Peter Kirkham",
-    "version": (0, 23, 1),
-    "blender": (3, 2, 0),
-    "description": "Import of native SketchUp (.skp) files",
+    "version": (0, 23, 2),
+    "blender": (3, 3, 0),
+    "description": "Import linked file of native SketchUp (.skp) files",
     #"warning": "Very early preview",
     "wiki_url": "https://github.com/martijnberger/pyslapi",
     "doc_url": "https://github.com/arindam-m/pyslapi/wiki",
